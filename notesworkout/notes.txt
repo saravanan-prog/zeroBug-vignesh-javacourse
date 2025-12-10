@@ -1,43 +1,55 @@
-JAVA
-=====
-    1. Java is a High level programming language.
-    2. Java is a  Pure OOPS programming
-    3. Memeory management very clear
-    4. Platform Independent.
+JAVA variables
+===============
 
-JAVA Benefits
-=============
+    =>  In Java, variables are containers that hold data values.
 
-    => write once run anywhere [platform independent]
-    => Modularity.
-    => Easily understand.
+    => Every variable has
+           Syntax :
+              type name;
+                (or)
+              type name = value
+
+    => Declaring Variables
+
+            int age;
+            double price;
+            char grade;
+            boolean isActive;
+            String name;
+
+    => Initializing Variables
+
+            int age = 20;
+            double price = 19.99;
+            char grade = 'A';
+            boolean isActive = true;
+            String name = "Alice";
 
 
-
-JDK => Java developement kit       => it is a java development kit helps to create soruce code.
-JIT =>  Just in Time compiler      => it is a compiler to convert source code to machine code.
-JVM => Java virtual machine.       => JVM is a virtual machine it is process to source code.
-JRE => Java runtime environment.   => it is a java run time environment the jre inside having libiaries it is
-                                            helps to run class file.
-
-
-Sample programming
-------------------
-    1. File name and Class should be Same
-    2. File name is first letter should be capital letter.
+Variable Scope
+==============
+    1. Local Variables
+    -------------------
+         =>   Declared inside methods
+         =>   Must be initialized before use
 
 
-class SampleProgram{
-    public static void main(String args[]){
-        System.out.println("Hello Java world !!!");
-        System.out.println("Hello Saravanan");
-    }
-}
+       Example
+       -------
+            void method() {
+                int x = 10; // local variable
+            }
 
-Explanation
-------------
-1. every program should be start from main method.
-2. class                  -  [package name]
-3. public                 -  Access sepecifer [public, private, protected,default]
-4. void                   -  no need return type.
-5. System.out.println()   -  print the text.
+
+    2. Instance Variables (non-static fields)
+    -----------------------------------------
+       => Declared inside a class but outside methods
+       =>  Each object gets its own copy
+
+           class Person {
+               String name; // instance variable
+           }
+
+    3. Static Variables (class variables)
+    -------------------------------------
+       => A static variable is a variable that belongs to the class, not to the objects.
