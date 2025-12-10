@@ -5,17 +5,17 @@ JAVA variables
 
     => Every variable has
            Syntax :
-              type name;
+              variable_type variable_name;
                 (or)
-              type name = value
+              variable_type variable_name = value;
 
     => Declaring Variables
 
-            int age;
-            double price;
-            char grade;
-            boolean isActive;
-            String name;
+            int age;              ---> Stores the whole values
+            double price;         ---> decimal values
+            char grade;           ---> Single Character
+            boolean isActive;     ---> true or false Flag values
+            String name;          ---> This is class type "Stores seqeuence of characters"
 
     => Initializing Variables
 
@@ -47,9 +47,44 @@ Variable Scope
        =>  Each object gets its own copy
 
            class Person {
-               String name; // instance variable
+               String name = "saravanan"; // instance variable
+
+               public static void main(String args[]){
+                 Person obj = new Person();
+                 System.out.println("name ===>" + obj.name);
+               }
            }
 
     3. Static Variables (class variables)
     -------------------------------------
        => A static variable is a variable that belongs to the class, not to the objects.
+
+            class Person {
+
+                  static String name = "Saravanan"; // static variable
+
+                  public static void main(String args[]){
+
+                        System.out.println("name ===>" + name);
+                  }
+            }
+
+    4. Final Varaibles [Constant]
+    ===============================
+        => values cannot be mutable
+        => final varaibles it can declared final keyword with caps.
+
+
+         class Person {
+
+             final String dbName = "mysql";
+             final String paymentType = "Razor-pay";
+
+
+            public static void main(String args[]){
+
+                System.out.println("name ===>" + name);
+            }
+         }
+
+
