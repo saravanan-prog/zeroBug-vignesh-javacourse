@@ -1,5 +1,5 @@
 JAVA
-=====
+====
     1. Java is a High level programming language.
     2. Java is a  Pure OOPS programming
     3. Memeory management very clear
