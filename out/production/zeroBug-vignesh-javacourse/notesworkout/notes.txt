@@ -1,0 +1,3 @@
+Java Data types
+================
+    In Java, data types define what kind of data a variable can store.
