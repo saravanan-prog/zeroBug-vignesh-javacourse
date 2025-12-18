@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="411148dc-1a75-42e3-98b6-3a58b8a222a1" name="Changes" comment="data types program" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/java_variables" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="36b5qF17q7UchGBFYROlD3BRG9h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ExampleJavaTypes.executor": "Run",
+    "Application.ExampleVaraibles.executor": "Run",
+    "Application.FinalVaraibles.executor": "Run",
+    "Application.FirstProgram.executor": "Run",
+    "Application.InstanceVariables.executor": "Run",
+    "Application.LocalVariables.executor": "Run",
+    "Application.SecondProgram.executor": "Run",
+    "Application.StaticVariables.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Developement\zeroBug-vignesh-javacourse\notesworkout" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExampleJavaTypes">
+    <configuration name="ExampleJavaTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExampleJavaTypes" />
+      <module name="zeroBug-vignesh-javacourse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalVaraibles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalVaraibles" />
+      <module name="zeroBug-vignesh-javacourse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstanceVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InstanceVariables" />
+      <module name="zeroBug-vignesh-javacourse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LocalVariables" />
+      <module name="zeroBug-vignesh-javacourse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StaticVariables" />
+      <module name="zeroBug-vignesh-javacourse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExampleJavaTypes" />
+        <item itemvalue="Application.FinalVaraibles" />
+        <item itemvalue="Application.InstanceVariables" />
+        <item itemvalue="Application.LocalVariables" />
+        <item itemvalue="Application.StaticVariables" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="411148dc-1a75-42e3-98b6-3a58b8a222a1" name="Changes" comment="" />
+      <created>1765262619150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765262619150</updated>
+    </task>
+    <task id="LOCAL-00001" summary="My First Program">
+      <option name="closed" value="true" />
+      <created>1765262955663</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765262955663</updated>
+    </task>
+    <task id="LOCAL-00002" summary="My second commit">
+      <option name="closed" value="true" />
+      <created>1765264696796</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1765264696796</updated>
+    </task>
+    <task id="LOCAL-00003" summary="My second commit">
+      <option name="closed" value="true" />
+      <created>1765264846120</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765264846120</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Image add">
+      <option name="closed" value="true" />
+      <created>1765265140120</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765265140120</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Image add">
+      <option name="closed" value="true" />
+      <created>1765266455380</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765266455380</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Notes folder updating">
+      <option name="closed" value="true" />
+      <created>1765267301729</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765267301729</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Notes folder updating">
+      <option name="closed" value="true" />
+      <created>1765267362753</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765267362753</updated>
+    </task>
+    <task id="LOCAL-00008" summary="variables concept">
+      <option name="closed" value="true" />
+      <created>1765342575001</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765342575001</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Variable programs">
+      <option name="closed" value="true" />
+      <created>1765353577034</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1765353577034</updated>
+    </task>
+    <task id="LOCAL-00010" summary="remove first program this branch">
+      <option name="closed" value="true" />
+      <created>1765353651450</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1765353651450</updated>
+    </task>
+    <task id="LOCAL-00011" summary="delete second program">
+      <option name="closed" value="true" />
+      <created>1765353682848</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1765353682848</updated>
+    </task>
+    <task id="LOCAL-00012" summary="data types program">
+      <option name="closed" value="true" />
+      <created>1765978137880</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1765978137880</updated>
+    </task>
+    <task id="LOCAL-00013" summary="data types program">
+      <option name="closed" value="true" />
+      <created>1765978155071</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1765978155071</updated>
+    </task>
+    <task id="LOCAL-00014" summary="data types program">
+      <option name="closed" value="true" />
+      <created>1765978171697</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1765978171697</updated>
+    </task>
+    <task id="LOCAL-00015" summary="data types program">
+      <option name="closed" value="true" />
+      <created>1765978181780</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1765978181780</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My First Program" />
+    <MESSAGE value="My second commit" />
+    <MESSAGE value="Image add" />
+    <MESSAGE value="Notes folder updating" />
+    <MESSAGE value="variables concept" />
+    <MESSAGE value="Variable programs" />
+    <MESSAGE value="remove first program this branch" />
+    <MESSAGE value="delete second program" />
+    <MESSAGE value="second commit" />
+    <MESSAGE value="data types program" />
+    <option name="LAST_COMMIT_MESSAGE" value="data types program" />
+  </component>
+</project>
